@@ -116,7 +116,7 @@
     {
         "mojang":
         {
-            "text" : "Copyright Mojang AB. Do not distribute!",
+            "text" : "RelCraft Modpack v0.1",
             "posX" : -197,
             "posY" : -10,
             "color" : -1,
@@ -125,7 +125,7 @@
         
         "fml":
         {
-            "text" : "",
+            "text" : "Powered By Awesomeness",
             "posX" : 2,
             "posY" : -40,
             "color" : -1,

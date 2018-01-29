@@ -1,3 +1,122 @@
-§e# Add Your ChangeLog to §c'changelog.txt'§r in the config files
+§e# RelCraft  Change Log
 
-You can use Minecrafts §9Color §2Codes §6to§r §nmake your changlogs look Good.
+§n§cv0.1
+§2* §6Setup Change Log
+§2* §6Setup Support Link
+§2* §6Setup Help/Issues Link
+§2* §6Drop Sleep % to 25%
+§2* §6Custom Text on MainMenu
+
+§2Added §9ActuallyAdditions 			§6vr105				
+§2Added §9AdditionalLootTables_1 		§6v1.06					
+§2Added §9Advanced Solar Panels			§6v4.0.4	
+§2Added §9AdvancedRocketry 				§6v1.0.19			
+§2Added §9appliedenergistics2 			§6vrv4-stable-1				
+§2Added §9Aroma1997Core 				§6v1.9.4-1.1.1.2			
+§2Added §9Aroma1997's Dimensional-World	§6v1.9.4-1.2.0.7		
+§2Added §9BadWitherNoCookie 			§6v0.0.1-5418dde				
+§2Added §9Bagginses 					§6v3.0.4g		
+§2Added §9BaseMetals_1 					§6v2.4.0.11		
+§2Added §9Baubles 						§6v1.3.13	
+§2Added §9bdlib 						§6v1.12.4.25	
+§2Added §9BedBugs 						§6v1.1.6	
+§2Added §9BetterAchievements 			§6v0.3.3.10				
+§2Added §9BetterBuildersWands 			§6v0.11.1.220+f8232fe				
+§2Added §9BetterFps 					§6v1.4.5-1.10		
+§2Added §9Bookshelf 					§6v1.4.4.347		
+§2Added §9Bookshelf 					§6vAPI5.0.0-B92		
+§2Added §9BrandonsCore 					§6v2.1.14.137-universal		
+§2Added §9CalcCrT 						§6v1.0	
+§2Added §9Calculator 					§6v3.2.5		
+§2Added §9Chameleon 					§6v2.3.0		
+§2Added §9ChestTransporter 				§6v2.5.18			
+§2Added §9Chisel 						§6v0.1.1.39	
+§2Added §9chiselsandbits 				§6v12.16			
+§2Added §9ClayBucket 					§6v1.9.4-1.2		
+§2Added §9CodeChickenCore 				§6v2.4.1.102-universal			
+§2Added §9CodeChickenLib 				§6v2.5.9.320-universal			
+§2Added §9CommonCapabilities 			§6v1.3.4				
+§2Added §9CompactSolars 				§6v5.0.12.336-universal			
+§2Added §9compatlayer 					§6v1.10-0.3.0		
+§2Added §9covers 						§6v0.4.1.17	
+§2Added §9CraftTweaker 					§6v3.0.26		
+§2Added §9CTM 							§6v0.2.3.26
+§2Added §9customachievements 			§6v0.3.0				
+§2Added §9CustomBackgrounds 			§6vMC1.9.4-1.1				
+§2Added §9CustomMainMenu 				§6v2.0.5			
+§2Added §9CyclopsCore 					§6v1.9.4-0.10.10		
+§2Added §9DarkUtilities 				§6v1.1.8.finalrc2			
+§2Added §9deepresonance 				§6v1.1x-1.4.9			
+§2Added §9Draconic Evolution			§6v2.1.8.273-universal	
+§2Added §9ElecCore 						§6v1.7.431	
+§2Added §9EnderCore 					§6v0.4.1.66-beta		
+§2Added §9EnderIO 						§6v3.1.183	
+§2Added §9EnderStorage 					§6v2.2.1.106-universal		
+§2Added §9EndMetals_1 					§6v.9-1.0.4		
+§2Added §9environmentaltech 			§6v0.10.6b				
+§2Added §9extrautils2 					§6v1.7.3		
+§2Added §9ExtremeReactors 				§6v0.4.5.46			
+§2Added §9flatcoloredblocks 			§6vv4.4				
+§2Added §9forestry_1 					§6v5.2.17.388		
+§2Added §9FTBLib 						§6v1.1x-3.6.5	
+§2Added §9FTBUtilities 					§6v1.1x-3.6.5		
+§2Added §9generators 					§6v0.9.20.23		
+§2Added §9gravestone 					§6v1.5.13		
+§2Added §9HammerCore 					§6v1.9.4.3		
+§2Added §9hopperducts 					§6vmc1.9.4-1.4.8.1		
+§2Added §9ImmersiveEngineering 			§6v0.10-61				
+§2Added §9industrialcraft 				§6v2-2.6.252-ex110			
+§2Added §9IntegratedDynamics 			§6v0.7.14				
+§2Added §9inventorypets 				§6v1.10-1.4.9.9			
+§2Added §9InventoryTweaks 				§6v1.61-58			
+§2Added §9jeibees 						§6v0.9.0.5	
+§2Added §9jei_1 						§6v3.14.7.420	
+§2Added §9journeymap 					§6v5.5.2		
+§2Added §9JustEnoughResources 			§6v0.5.8.98				
+§2Added §9LibVulpes 					§6v0.1.19-universal		
+§2Added §9malisiscore 					§6v4.4.0		
+§2Added §9malisisdoors 					§6v5.2.0		
+§2Added §9Mantle 						§6v1.1.5	
+§2Added §9mcjtylib 						§6v1.1x-2.5.1	
+§2Added §9MCMultiPart 					§6v1.4.0-universal		
+§2Added §9Mekanism 						§6v9.2.4.103	
+§2Added §9MekanismGenerators 			§6v9.2.4.103				
+§2Added §9MekanismTools 				§6v9.2.4.103			
+§2Added §9ModernMetals 					§6v0.11.0		
+§2Added §9modnametooltip_1 				§6v1.6.0			
+§2Added §9ModTweaker2 					§6v2.0.13		
+§2Added §9morebees 						§6v1.4.1.1	
+§2Added §9moreoverlays 					§6v1.11		
+§2Added §9Morpheus 						§6v3.1.13	
+§2Added §9mpbasic 						§6v1.1.5	
+§2Added §9mputils 						§6v1.2.9	
+§2Added §9MTLib 						§6v1.0.3	
+§2Added §9Neotech 						§6v4.0.0-B151	
+§2Added §9NetherMetals 					§6v1.1.4		
+§2Added §9OreSpawn 						§6v3.2.1.100	
+§2Added §9p455w0rdslib 					§6v1.0.30		
+§2Added §9ProgressiveAutomation 		§6v1.7.4					
+§2Added §9QuantumStorage 				§6v3.3.6			
+§2Added §9rangedpumps 					§6v0.3		
+§2Added §9RebornCore 					§6v2.13.6.142-universal		
+§2Added §9ResourceLoader 				§6vMC1.9.4-1.5.1			
+§2Added §9rftools 						§6v1.1x-7.16	
+§2Added §9rftoolsctrl 					§6v1.1x-1.7.0		
+§2Added §9rftoolsdim 					§6v1.1x-5.05		
+§2Added §9SimplyJetpacks2 				§6v2.1.3.55			
+§2Added §9SolarFluxReborn_1 			§6v2.17r				
+§2Added §9SonarCore 					§6v3.3.0		
+§2Added §9stg 							§6v1.0.3
+§2Added §9StorageDrawers 				§6v3.7.10			
+§2Added §9SuperCircuitMaker 			§6v1.0.4				
+§2Added §9TConstruct 					§6v2.6.5		
+§2Added §9TechReborn 					§6v2.1.19.240-universal		
+§2Added §9Tesla 						§6v1.2.1.49	
+§2Added §9Thaumcraft 					§6v6.0.BETA3		
+§2Added §9theoneprobe 					§6v1.1x-1.4.19		
+§2Added §9tinyprogressions 				§6v1.2.6			
+§2Added §9topaddons 					§6v0.15.0		
+§2Added §9Translocators 				§6v2.1.4.55-universal			
+§2Added §9valkyrielib 					§6v0.10.6		
+§2Added §9WirelessCraftingTerminal 		§6v2.1.41					
+§2Added §9zerocore 						§6v0.1.1.1	
